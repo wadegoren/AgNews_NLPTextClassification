@@ -39,7 +39,3 @@ Consider experimenting with hyperparameters, model architecture, or using differ
 Results
 After training the model, the test accuracy achieved is approximately 89.54%. The confusion matrix provides insights into the model's performance across different classes.
 
-References
-Base Code: Keras Examples
-Research Paper: Link to relevant research paper
-Feel free to explore, modify, and contribute to enhance the text classification model. If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request. Happy coding!
