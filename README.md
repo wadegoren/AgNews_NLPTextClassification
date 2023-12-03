@@ -28,7 +28,7 @@ Usage
 Download the AG News dataset from Kaggle and place the CSV files in the ag_news_dataset directory.
 ## Download GloVe Embeddings:
 
-Run the provided commands in the code to download the GloVe pre-trained word embeddings.
+Run the jupyter notbeook to download the GloVe pre-trained word embeddings.
 Install Dependencies:
 
 Make sure to install the required libraries mentioned in the code using pip install.
