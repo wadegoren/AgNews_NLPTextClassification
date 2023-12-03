@@ -1,5 +1,6 @@
 # Text Classification with Deep Learning using AG News Dataset
-Overview
+## Overview
+
 This repository contains the code for a text classification project using deep learning techniques. The goal of the project is to categorize news articles into different topics using the AG News dataset. The implementation utilizes a convolutional neural network (CNN) with pre-trained word embeddings to capture the context of words effectively.
 
 Dataset
